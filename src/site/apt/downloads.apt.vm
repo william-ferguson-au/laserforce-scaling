@@ -1,0 +1,12 @@
+Downloads
+
+    In order to run the Laserforce-Scaling application you will need to do 2 things.
+
+    [[1]] Download the Java runtime engine version 6 or greater from {{http://www.java.com/en/download/}}.
+          It will determine if you have the latest version of Java or not.
+          \
+
+
+    [[2]] Download the latest version of the Laserforce-Scaling from \
+        {{${downloadLocation}}}.
+

@@ -1,0 +1,72 @@
+
+Minimum number of games required in a League Position : 3
+Ranked between levels 2 and 12
+Overall score for each player scaled to : A-Scout
+
+Loaded scores from:
+    A-Commander           C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Commander.csv
+    A-Heavy               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Heavy.csv
+    A-Scout               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Scout.csv
+    A-Ammo                C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Ammo.csv
+    A-Medic               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Medic.csv
+
+Player                  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames
+
+Level 12  ( 7784 - 8238) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Rusty                     8238   22  11665  7                   8453  7      6377  8                
+Tragedy                   8044   24  11819  8                   8391  7      5891  9                
+
+Level 11  ( 7330 - 7784) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+
+Level 10  ( 6876 - 7330) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Jaredfied                 7233   23   9833  7    (10222  1)     7500  8      5732  8                
+Foxtrot                   6986   28   9849  9                   7096 10                   3553  9   
+
+Level  9  ( 6423 - 6876) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Meow                      6857   22   8956  7                   7113  8      5693  7                
+Aussie Legend             6807   24   9207  8                   7464  8      5112  8                
+Mortis                    6528   20   9105  7    ( 9442  1)     7073  7      4755  6    ( 3642  1)  
+Scorpion                  6470   22 ( 9102  2)     7052  6      6812  8      4366  5      3362  3   
+
+Level  8  ( 5969 - 6423) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Anarki                    6201   23  10051  7    ( 6062  1)     5996  8      3515  3      3042  5   
+Pat                       6140   26   8953  9    ( 6402  1)     5762  9      5067  8                
+Monkey Crap               6090   26   8677  8                   5944  9      4893  9                
+
+Level  7  ( 5515 - 5969) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Defsta                    5921   24   8685  7    ( 6862  2)     5893  9      4504  8                
+Wardog                    5721   21   8927  4      5776  4      5456  7      4605  6    ( 5022  2)  
+Troyoda                   5696   25 ( 9352  2)     6532  6      5976 10      4272  4      2062  5   
+Shodan                    5648   32                6000 12      6117 11      3915  9                
+
+Level  6  ( 5061 - 5515) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Orix                      5511   14 ( 6902  2)     6809  3      5670  5                   2205  6   
+Carol                     5487   18                5899  6      5487  4                   2552  8   
+Squiza                    5351   28   9202  3      6202  7      5388 10                   1979  8   
+Ravs                      5350   16 ( 8272  2)     6281  4      5515  6      3841  3      1941  3   
+Goth Gecko                5206   23   7692  4      6977  4      5087  8      3419  7    ( 2322  1)  
+Zim                       5111   16 ( 7842  1)     5506  5      4627  7    ( 3222  1)     2877  4   
+
+Level  5  ( 4607 - 5061) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Cookie                    4996   24                5650  7      4932  8                   2124  9   
+Shooting Star             4914   24                5456  7      4966  9                   2034  8   
+Tom Bombadil              4814   22   7952  4      4497  4      4829  6                   2097  8   
+
+Level  4  ( 4154 - 4607) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Nightshade                4518   26                4204  9      4545  8                   2253  9   
+Deryn                     4358   25                4043  9      4083  7                   2291  9   
+
+Level  3  ( 3700 - 4154) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Iceman                    4115   19 ( 5942  2)     4138  6      4225  7                   1688  6   
+Muppet                    4062   24   5237  5      3568  3      4040  8      3627  4      2012  4   
+
+Level  2  ( 3246 - 3700) Scaled-Avg  A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+Jugular                   3246   23 ( 3462  1)     3407  7      2488  8                   1542  8   
+
+Untransformed Players                A-Commander  A-Heavy      A-Scout      A-Ammo       A-Medic     
+God                          0    0                           ( 6402  1)   (  840  1)               
+Guy Next Door                0    0              ( 2520  1)   ( 7342  1)                            
+Morpheus                     0    0                           ( 6322  1)   ( 2782  1)               
+
+NB bracketed scores indicate a score that has been disregarded for scaling purposes.
+   Probably because it is less than the minimum number of games for a League Position.

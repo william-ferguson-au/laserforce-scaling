@@ -1,0 +1,103 @@
+
+Minimum number of games required in a League Position : 3
+Ranked between levels 1 and 12
+Overall score for each player scaled to : A-Scout
+
+Loaded scores from:
+    A-Commander           C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Commander.csv
+    A-Heavy               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Heavy.csv
+    A-Scout               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Scout.csv
+    A-Ammo                C:\Users\William\Documents\Laserforce\A-Grade-Sept-2009-Ammo.csv
+    A-Medic               C:\Users\William\Documents\Laserforce\A Grade Sept 2009 - Medic.csv
+    C-Commander           C:\Users\William\Documents\Laserforce\C Grade Sept 2009 - Commander.csv
+    C-Heavy               C:\Users\William\Documents\Laserforce\C Grade Sept 2009 - Heavy.csv
+    C-Scout               C:\Users\William\Documents\Laserforce\C Grade Sept 2009 - Scout.csv
+    C-Ammo                C:\Users\William\Documents\Laserforce\C Grade Sept 2009 - Ammo.csv
+    C-Medic               C:\Users\William\Documents\Laserforce\C Grade Sept 2009 - Medic.csv
+
+Player                  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames  Avg NrGames
+
+Level 12  ( 7725 - 8162) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Rusty                     8162   22  11665  7                                             8453  7                   6377  8                                          
+Tragedy                   7922   24  11819  8                                             8391  7                   5891  9                                          
+
+Level 11  ( 7289 - 7725) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+
+Level 10  ( 6853 - 7289) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Jaredfied                 7193   23   9833  7                 (10222  1)                  7500  8                   5732  8                                          
+Meow                      6856   22   8956  7                                             7113  8                   5693  7                                          
+
+Level  9  ( 6417 - 6853) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Foxtrot                   6798   28   9849  9                                             7096 10                                             3553  9                
+Aussie Legend             6757   24   9207  8                                             7464  8                   5112  8                                          
+Mortis                    6482   20   9105  7                 ( 9442  1)                  7073  7                   4755  6                 ( 3642  1)               
+
+Level  8  ( 5980 - 6417) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Scorpion                  6379   22 ( 9102  2)                  7052  6                   6812  8                   4366  5                   3362  3                
+Pat                       6351   40   8953  9     12989  3    ( 6402  1)    11282  3      5762  9      8097  4      5067  8      7652  4                 ( 3992  2)  
+Monkey Crap               6044   26   8677  8                                             5944  9                   4893  9                                          
+Anarki                    6031   23  10051  7                 ( 6062  1)                  5996  8                   3515  3                   3042  5                
+Defsta                    5989   43   8685  7     13082  4    ( 6862  2)     9669  3      5893  9      7893  7      4504  8      5354  5                 ( 3482  2)  
+
+Level  7  ( 5544 - 5980) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Manok                     5840   10              ( 8272  2)                  8209  3                   6967  4                   6575  3                 ( 1811  2)  
+Wardog                    5691   21   8927  4                   5776  4                   5456  7                   4605  6                 ( 5022  2)               
+Troyoda                   5648   25 ( 9352  2)                  6532  6                   5976 10                   4272  4                   2062  5                
+Shodan                    5592   32                             6000 12                   6117 11                   3915  9                                          
+
+Level  6  ( 5108 - 5544) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Squiza                    5530   52   9202  3     11637  4      6202  7      6872  4      5388 10      8116  7                   5749  6      1979  8      3242  3   
+Orix                      5425   14 ( 6902  2)                  6809  3                   5670  5                                             2205  6                
+Lucky Ninja               5391   21               10432  4                   6452  4                   6779  7                   5482  6                             
+Carol                     5390   18                             5899  6                   5487  4                                             2552  8                
+Ravs                      5287   16 ( 8272  2)                  6281  4                   5515  6                   3841  3                   1941  3                
+
+Level  5  ( 4671 - 5108) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Goth Gecko                5071   43   7692  4      9847  4      6977  4      7822  4      5087  8      5925  7      3419  7      3997  5    ( 2322  1)   ( 3972  2)  
+Zim                       5052   16 ( 7842  1)                  5506  5                   4627  7                 ( 3222  1)                  2877  4                
+Cookie                    4958   35                9229  3      5650  7    ( 5622  2)     4932  8      5597  4                   5022  4      2124  9    ( 1511  2)  
+Tom Bombadil              4869   37   7952  4      6928  3      4497  4    ( 6201  2)     4829  6      7279  6                   4275  6      2097  8    ( 3382  1)  
+Shooting Star             4767   46                9962  4      5456  7      7752  4      4966  9      6058  5                   2310  5      2034  8      2277  4   
+
+Level  4  ( 4235 - 4671) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Nightshade                4437   44                7415  3      4204  9      3101  3      4545  8      4552  4                   3754  5      2253  9      3542  3   
+L Dawg                    4380    7                                                                    5376  7                                                       
+Grey Fox                  4376   12              ( 6402  2)                  6442  3                   4282  4                   3894  5                 (  891  2)  
+Mackie                    4368    3                                                                                                                        2455  3   
+Meryln                    4365    7                                                                    5353  7                                                       
+L-Dawg                    4286   19                7227  4                   4732  4                                             3572  8                   2542  3   
+FatpostmanPat             4242   18                7175  3                   6552  4                   4869  6                 ( 3062  2)                  2126  5   
+
+Level  3  ( 3799 - 4235) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Mackiie                   4230   18              ( 6382  1)                  4235  3                   5082  6                   3600  9                             
+Muppet                    4201   51   5237  5      6612  6      3568  3      4250  5      4040  8      5707  4      3627  4      4249  8      2012  4      2252  4   
+Deryn                     4196   41                5875  3      4043  9      5675  3      4083  7      3501  4                   3479  6      2291  9    ( 2122  2)  
+Bonzilla                  4151   12              ( 5062  2)                ( 6052  2)                  4772  6                   3475  6                 ( 1041  2)  
+Iceman                    4147   19 ( 5942  2)                  4138  6                   4225  7                                             1688  6                
+Vegeto                    4071   14                6462  3                 ( 6322  1)                  4097  4                   3677  4                   2535  3   
+Nexos                     4066   14              ( 4481  1)                  4982  3                   5052  4                   3587  4                   1688  3   
+Jeff Pecks                4017   14                6022  3                 ( 4322  2)                  4874  5                   3265  6                 (  741  2)  
+Rips                      3803   13              ( 5762  1)                ( 2981  2)                  4369  6                   2655  3                   2132  4   
+
+Level  2  ( 3363 - 3799) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Dark Angel                3510   20                6248  3                 ( 3221  2)                  3539  6                   2205  7                   2107  4   
+
+Level  1  ( 2926 - 3363) Scaled-Avg  A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+847                       3323   16              ( 2622  1)                ( 4222  1)                  3520  9                   2282  7                 (  361  2)  
+Jugular                   3306   23 ( 3462  1)                  3407  7                   2488  8                                             1542  8                
+Buzzbar                   3261   16              ( 2342  1)                ( 2302  2)                  3569  6                   2076  7                   1508  3   
+Andromeda                 3241   18              ( 3992  2)                ( 3682  2)                  2829  6                   1964  8                   2107  4   
+Deadite                   3018   18              ( 4422  2)                ( 3612  2)                  3529  8                   1671  6                   1081  4   
+Flash                     3007   20                3915  3                 ( 4292  2)                  2650  5                   2347  8                   1121  4   
+Merlyn                    2926    3              ( 6512  2)                ( 6362  2)                                          ( 4962  2)                  1348  3   
+
+Untransformed Players                A-Commander  C-Commander  A-Heavy      C-Heavy      A-Scout      C-Scout      A-Ammo       C-Ammo       A-Medic      C-Medic     
+Ezy E                        0    0              ( 6682  1)                ( 3322  1)                ( 5352  2)                                          ( 2262  1)  
+God                          0    0                                                     ( 6402  1)                (  840  1)                                         
+Guy Next Door                0    0                           ( 2520  1)                ( 7342  1)                                                                   
+Knocky Knees                 0    0              ( 4802  1)                                                                    ( 1962  1)                            
+Lucky ninja                  0    0                                                                                                                      ( 1761  1)  
+Morpheus                     0    0                                                     ( 6322  1)                ( 2782  1)                                         
+
+NB bracketed scores indicate a score that has been disregarded for scaling purposes.
+   Probably because it is less than the minimum number of games for a League Position.

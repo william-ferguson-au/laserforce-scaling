@@ -1,0 +1,36 @@
+Scaling
+
+    Once you have added all the score files, you can scale the scores into a single ranking.
+
+    You can specify the following options for the scaling:
+
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Min Nr Games             | The minimum number of games that must be played by a player in a League Position in order to be counted towards the scaling. |
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Min League Level         | The League Level that will be assigned to the lowest ranked player.                                                          |
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Max League Level         | The League Level that will be assigned to the highest ranked player.                                                         |
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Target League Position   | The League Position to which all combined scores for a player will be scaled.                                                |
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Show Intermediate Scores | Whether to display a line for each player showing the the values of each position scaled to the target League Position.      |
+*--------------------------+------------------------------------------------------------------------------------------------------------------------------+
+
+    Once you have suitable selections for ach, click on the <<Scale>> button to perform the scaling. You will be asked for the file into
+    which to store the output, enter a file name and click <<OK>>.
+
+    When the scaling is complete you will see the following dialog:
+
+[./images/finished-window.jpg] Scaling Completed window
+
+    The scaling results can now be viewed from the file nominated previously.
+
+    Here are the results from a scaling on the combined A and C grade Brisbane league seasons that finished early 2010 - {{{./files/Scaling-Results-Mar-2010.txt}A-and-C-grade-results-Mar-2010}}
+
+    And to answer Rusty's query here are the results of scaling : 
+
+    * Just A Grade from levels 2 to 12 (since the lowest A-Grader from the combined scaling was on the cusp of being a 2) {{{./files/Scaling-Results-A-Grade-Only.txt}A-grade-only}}
+
+    * Just C Grade from levels 1 to 8 (since the highest C-Grader from the combined scaling was at the top level 8) {{{./files/Scaling-Results-C-Grade-Only.txt}C-grade-only}}
+
+    []
