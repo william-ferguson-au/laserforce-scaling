@@ -1,0 +1,47 @@
+Adding Files
+
+    From the <Main> window the first thing you will want to do is to start adding files for those league positions
+    that you want to scale. Click on the <<Add File>> button to open the <Add File> window.
+
+[./images/add-file-window.jpg] <Add File> window
+
+
+    The <Add File> window will let you
+
+    * Select a file by clicking on the open file button.
+
+    * Choose the format for the file from the format drop down list.
+
+    * Choose the League for the scores. Useful if you are scaling scores across more than one league.
+
+    * Choose the position for all the scores in the file from the Position drop down list.
+
+    []
+
+    Once you have entered all the information for the file, click on the <<Add>> button and you will
+    return to the <Main> window.
+
+    The <Main> window will now contain a row for the file you have just added. The one below has had several files added.
+
+[./images/main-window-with-files.jpg] <Main> window with several files added.
+
+    \
+    You will notice that each row contains
+
+    * A red <<Delete>> button on the far left, which can be used to remove any unwanted files.
+
+    * The name of the League and Position for the file
+
+    * The format of the file.
+
+    * The location of the file.
+
+    []
+
+    Keep adding files until you have including scores for all positions of all leagues that you intend to scale together. 
+
+    
+
+
+
+
